@@ -6,5 +6,5 @@ realtime fm tx over hackrf with python and c
   
 # example
   ./c.sh
-  python3 main.py
-  turn on your fm recvicer
+  \npython3 main.py
+  \nturn on your fm recvicer
